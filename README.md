@@ -17,15 +17,12 @@ I love keeping up with the latest technologies and industry trends. I am constan
 
 ## Experiences
 - [<img alt="zeew-logo" src="./assets/zeew-logo.png" width="15" heigth="15" align="center" /> **Zeew Space**](https://zeew.space):
-<br/>
 Official website of Zeew Space, an online learning corner. 
 
-- [**Equitrans Andreu**](https://equitransandreu.com/): 
-<br/>
+- [**Equitrans Andreu**](https://equitransandreu.com/):
 Official website of the company Equitrans Andreu.
 
 - [**Corporación agrícola JJM**](https://corporacionagricolajjm.com/): 
-<br/>
 Corporación Agrícola JJM, specialized in the production and export of high quality fresh fruits. 
 
 ### Habilidades
